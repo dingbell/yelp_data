@@ -2,6 +2,7 @@
 https://www.youtube.com/watch?v=Ywj6yNfc5nM
 # To use RStudio together with MySQL, install a library: RMySQL.
 ##open terminal, input the following (if brew is not installed, install brew first)
+
 brew install mariadb-connector-c
 ## open RStudio, in the console , input
 install.packages("RMySQL", type="source")
